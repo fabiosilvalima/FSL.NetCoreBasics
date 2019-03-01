@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/FSL.NetCoreBasics.Mvc/bin/Debug/netcoreapp2.2
+/FSL.NetCoreBasics.Mvc/obj
